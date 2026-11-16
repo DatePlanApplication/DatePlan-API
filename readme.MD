@@ -29,7 +29,7 @@ O DatePlan permite que casais:
 
 - Conectem suas contas através de um sistema de convites;
 - Criem e gerenciem um calendário compartilhado de encontros;
-- Transformem encontros já realizados em memórias com fotos e anotações;
+- Transformem encontros já realizados em memórias com anotações;
 - Recebam notificações push (Firebase) sobre eventos e lembretes;
 - Façam login com e-mail/senha ou Google Sign-In.
 
